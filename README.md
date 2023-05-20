@@ -1,2 +1,2 @@
-# JeuDuPendu
- 
+# JeuDuPendu (Hangman game)
+
