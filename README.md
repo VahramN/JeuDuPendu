@@ -1,6 +1,6 @@
 # JeuDuPendu (Hangman game)
 
-###Content
+### Content
 This game contains 3 files:
 1. The script main.py in python for playing the game.
 2. The mots_pendu.txt text file, which contains all the words for the game.
