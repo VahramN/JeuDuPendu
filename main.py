@@ -19,10 +19,10 @@ def read_random_line_in_file():
         lines = word_file.readlines()
     # select randomly a word
     selected_word = choose_word(lines)
-    # return the word, cleaned from new line
-    return selected_word.strip()
     # close a file
     word_file.close()
+    # return the word, cleaned from new line
+    return selected_word.strip()
 
 
 # Find all the occurrences' indexes of the subtext in the given text
